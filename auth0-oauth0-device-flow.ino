@@ -17,16 +17,16 @@
 /*
  * Set global constant attributes.
  */
-static const char WIFI_SSID[] = "Auth0 Public"; // "2C7F Hyperoptic 1Gb Fibre 2.4Ghz"; // ADJUST TO SETUP
-static const char WIFI_PASSWORD[] = "NeverCompromise"; // "gTekrua4auaf"; // ADJUST TO SETUP
-static const char AUTH0_HOST[] = "chrisadriaensen.eu.auth0.com"; // ADJUST TO SETUP
+static const char WIFI_SSID[] = ""; // ADJUST TO SETUP
+static const char WIFI_PASSWORD[] = ""; // ADJUST TO SETUP
+static const char AUTH0_HOST[] = ".auth0.com"; // ADJUST TO SETUP
 //static const String APP_HOST = "app.example.com:8080"; // ADJUST TO SETUP
 //static const IPAddress OPENAM_SERVER(172,20,10,3); //OPENAM_SERVER(192,168,1,5); //  ADJUST TO SETUP
 //static const IPAddress APP_SERVER(172,20,10,3); //APP_SERVER(192,168,1,5); //  ADJUST TO SETUP
 static const int AUTH0_PORT = 443; // ADJUST TO SETUP
 //static const int APP_PORT = 8080; // ADJUST TO SETUP
-static const char OAUTH_CLIENT_ID[] = "PRMMboxs8XgIn5HVWmwA128MEcZFrLEx"; // ADJUST TO SETUP
-static const char OAUTH_CLIENT_SECRET[] = "-W6tnY7EzGiiQai4swkqnPHN0d6ab_Ho9qUsHi_DkBuMo0MIzuypusefLzMw8f_U"; // ADJUST TO SETUP
+static const char OAUTH_CLIENT_ID[] = ""; // ADJUST TO SETUP
+static const char OAUTH_CLIENT_SECRET[] = ""; // ADJUST TO SETUP
 static const int SERIAL_PORT = 9600;
 static const int NO_LED = -1;
 static const int RED_LED = 0;
